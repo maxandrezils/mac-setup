@@ -1,0 +1,12 @@
+alt-tab											
+amethyst											
+dbeaver-community									
+devtoys
+fig
+flameshot
+http-toolkit
+iina
+iterm2
+maccy
+numi
+rectangle

@@ -1,0 +1,47 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontSize": 18,
+    "editor.lineHeight": 26,
+    "editor.lineNumbers": "on",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "none", // removes whitespace chars
+    "editor.renderLineHighlight": "none", // removes line highlight
+    "editor.overviewRulerBorder": false, // removes border from overview ruler (located on the right, same position as the scrollbar)
+    "editor.hideCursorInOverviewRuler": true, // hides cursor mark in the overview ruler
+    "editor.folding": true, // removes the folding feature
+    "editor.occurrencesHighlight": false, // removes highlights occurrences (still works when you select a word)
+    "editor.glyphMargin": true, // removes the space used mainly for debugging indicators
+    "explorer.openEditors.visible": 0, // removes the open editors section at the top of the sidebar, you can see the opened files with ⌘ + ⌥ + Tab
+    "workbench.editor.showIcons": false, // removes icon from opened files in tabs
+    "workbench.editor.tabCloseButton": "off", // removes the status bar
+    "editor.inlineSuggest.enabled": true,
+    "editor.fontFamily": "\"JetBrains Mono\", \"Fira Code\", Menlo, Monaco, 'Courier New', monospace",
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.enablePreview": false,
+    "editor.accessibilitySupport": "off",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.comments.ignoreEmptyLines": false,
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.minimap.renderCharacters": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "terminal.integrated.fontFamily": "\"MesloLGS NF\"",
+    "terminal.integrated.fontSize": 16,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "cSpell.userWords": [],
+    "workbench.colorTheme": "Default Dark+ Experimental",
+    "workbench.sideBar.location": "right",
+    "playwright.reuseBrowser": false,
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "workbench.colorCustomizations": {},
+    "python.condaPath": "/Users/max.zils/micromamba/condabin/conda"
+}
